@@ -1,3 +1,7 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/0xmjk/go-tsx-rtm)](https://goreportcard.com/report/github.com/0xmjk/go-tsx-rtm) 
+[![GoDoc](https://godoc.org/github.com/0xmjk/go-tsx-rtm?status.svg)](https://godoc.org/github.com/0xmjk/go-tsx-rtm) 
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/0xmjk/go-tsx-rtm/blob/master/LICENSE) 
+
 *Transactional Synchronization Extensions (TSX)* is an extension to the Intel x86 ISA adding hardware transactional memory support.
 
 *Restricted Transactional Memory (RTM)* uses new `XBEGIN` and `XEND` instructions to mark start and end of a critical section.
